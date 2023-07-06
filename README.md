@@ -1,7 +1,7 @@
 # odin-recipes
 A website designed to showcase a famous recipe from my country
 
-##Concepts used:
+## concepts used
 - Pages
 - Images
 - Links
